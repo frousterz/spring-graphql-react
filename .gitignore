@@ -1,5 +1,5 @@
 ./backend/.idea
-./.DS_Store
+.DS_Store
 *.iws
 *.iml
 *.ipr
